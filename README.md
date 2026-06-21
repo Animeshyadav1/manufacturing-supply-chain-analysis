@@ -158,7 +158,7 @@ manufacturing-supply-chain-analysis/
 
 **Animesh Yadav**
 - 📧 animeshyadav310@gmail.com
-- 💼 [LinkedIn](https://linkedin.com/in/animeshyadav)
+- 💼 [LinkedIn](https://www.linkedin.com/in/animesh-yadav-/)
 - 🐙 [GitHub](https://github.com/Animeshyadav1)
 
 ---
